@@ -1,9 +1,9 @@
 {
-  "name": "jhipster-lite-react-test",
-  "version": "0.0.0",
+  "name": "beers-react-example",
+  "version": "0.0.1",
   "private": true,
-  "description": "JHipster Lite React Test",
-  "license": "UNLICENSED",
+  "description": "Beers React Example",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build --emptyOutDir",
