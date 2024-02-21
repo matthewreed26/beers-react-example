@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "ES2015",
+    "strict": true,
+    "target": "es6",
+    "lib": ["es5", "es6", "dom", "dom.iterable"],
+    "types": ["cypress"],
+    "baseUrl": ".",
+    "paths": {
+      "@/utils/*": ["utils/*"]
+    }
+  },
+  "include": ["**/*.spec.ts"]
+}

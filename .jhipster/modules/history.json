@@ -1,0 +1,57 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2024-02-17T22:39:13.299911Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "prettier",
+    "date" : "2024-02-17T22:39:13.591287Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "typescript",
+    "date" : "2024-02-17T22:39:13.632156Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-core",
+    "date" : "2024-02-17T22:39:13.702533Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "cypress",
+    "date" : "2024-02-17T22:39:13.783399Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  }, {
+    "module" : "react-jwt",
+    "date" : "2024-02-17T22:39:13.859453Z",
+    "properties" : {
+      "projectName" : "JHipster Lite React Test",
+      "baseName" : "jhipsterLiteReactTest",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
