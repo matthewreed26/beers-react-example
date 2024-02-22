@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Homepage from '@/common/primary/homepage';
-import EssentialsView from '@/common/primary/essentials';
+import ChatsView from '@/common/primary/chats';
 
 const Router = createBrowserRouter([
   {
@@ -9,7 +9,7 @@ const Router = createBrowserRouter([
   },
   {
     path: '/essentials',
-    element: <EssentialsView />,
+    element: <ChatsView />,
   },
 ]);
 
